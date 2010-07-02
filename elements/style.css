@@ -1,0 +1,195 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+/* RESET */
+html,body,div,ul,ol,li,dl,dt,dd,h1,h2,h3,h4,h5,h6,pre,form,p,blockquote,fieldset,input { margin: 0; padding: 0; }
+h1,h2,h3,h4,h5,h6,pre,code,address,caption,cite,code,em,strong,th { font-size: 1em; font-weight: normal; font-style: normal; }
+ul,ol { list-style: none; }
+fieldset,img { border: none; }
+caption,th { text-align: left; }
+table { border-collapse: collapse; border-spacing: 0; }
+html,body {
+	width:100%;
+	height:100%;
+}
+
+body{
+	background-color:#272627;
+}
+
+main_table{
+	margin:auto;
+}
+
+#top_banner{
+	background-image:url(stds_3nd_19.png);
+	background-repeat:repeat-x;
+}	
+#top_banner_right{
+	background-image:url(stds_3nd_27.png);
+	background-repeat:no-repeat;
+}
+
+.menu_basic a:link, .menu_basic a:visited{
+	display: block;
+	width:78px;
+	height:24px;
+}
+#menu_1{
+	background: url(stds_3nd_30.png) top left no-repeat;
+}
+#menu_1_ed{
+	background: url(stds_3nd_30.png) bottom left no-repeat;
+}
+#menu_1 a:hover{
+	background: url(stds_3nd_30.png) bottom left no-repeat;
+}
+#menu_2{
+	background: url(stds_3nd_31.png) top left no-repeat;
+}
+#menu_2_ed{
+	background: url(stds_3nd_31.png) bottom left no-repeat;
+}
+#menu_2 a:hover{
+	background: url(stds_3nd_31.png) bottom left no-repeat;
+}
+#menu_3{
+	background: url(stds_3nd_32.png) top left no-repeat;
+}
+#menu_3_ed{
+	background: url(stds_3nd_32.png) bottom left no-repeat;
+}
+#menu_3 a:hover{
+	background: url(stds_3nd_32.png) bottom left no-repeat;
+}
+#menu_4{
+	background: url(stds_3nd_33.png) top left no-repeat;
+}
+#menu_4_ed{
+	background: url(stds_3nd_33.png) bottom left no-repeat;
+}
+#menu_4 a:hover{
+	background: url(stds_3nd_33.png) bottom left no-repeat;
+}
+#menu_5{
+	background: url(stds_3nd_34.png) top left no-repeat;
+}
+#menu_5_ed{
+	background: url(stds_3nd_34.png) bottom left no-repeat;
+}
+#menu_5 a:hover{
+	background: url(stds_3nd_34.png) bottom left no-repeat;
+}
+#menu_6{
+	background: url(stds_3nd_35.png) top left no-repeat;
+}
+#menu_6_ed{
+	background: url(stds_3nd_35.png) bottom left no-repeat;
+}
+#menu_6 a:hover{
+	background: url(stds_3nd_35.png) bottom left no-repeat;
+}
+#menu_7{
+	background: url(stds_3nd_36.png) top left no-repeat;
+}
+#menu_7_ed{
+	background: url(stds_3nd_36.png) bottom left no-repeat;
+}
+#menu_7 a:hover{
+	background: url(stds_3nd_36.png) bottom left no-repeat;
+}
+#hr_bar{
+	background-image:url(stds_3nd_37.png);
+	background-repeat:repeat-x;
+}
+#main_body{
+	background-color:#e9e9e9;
+}
+#home_logo_area{
+	background-color:#020202;
+}
+#white_bottom_a{
+	background-image:url(stds_3nd_67.png);
+	background-repeat:no-repeat;
+	width:7px;
+}
+#white_bottom_b{
+	background-color:#e9e9e9;
+}
+#white_bottom_c{
+	background-image:url(stds_3nd_69.png);
+	background-repeat:no-repeat;
+	width:9px;
+}
+#main_bottom_a{
+	background-color:#373737;
+}
+#main_bottom_b, #main_bottom_b a:link, #main_bottom_b a:visited{
+	background-color:#373737;
+	font-size:12px;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#FFF;
+	text-decoration:none;
+}
+#main_bottom_b a:hover{
+	text-decoration:underline;
+}
+#main_bottom_d{
+	background-image:url(stds_3nd_73.png);
+}
+#main_right{
+	font-size:13px;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#333;
+	line-height:1.3;
+}
+.main_cont{
+	font-size:13px;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#333;
+	line-height:1.3;
+}
+h1, h1 a:link, h1 a:visited{
+	font-size:16px;
+	font-weight:bold;
+	text-decoration:none;
+	color:#333;
+	line-height:1;
+}
+h1 a:hover{
+	text-decoration:underline;
+}
+h2, h2 a:link, h2 a:visited{
+	font-size:14px;
+	line-height:1.5;
+	text-decoration:none;
+	color:#333;
+	font-weight:bold;
+}
+h2 a:hover{
+	text-decoration:underline;
+}
+.cont_table{
+	text-indent:7px;
+}
+.tyretable_top{
+	background-color:#9cc8d5;
+	font-size:14px;
+	font-weight:bold;
+	font-family:Arial, Helvetica, sans-serif;
+}
+.tyretable_c1{
+	background-color:#f2fcff;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+}
+.tyretable_c2{
+	background-color:#dff6fc;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+}
+#main_tyre_tb{
+	border:1px solid #9cc8d5;
+	width:700px;
+}
