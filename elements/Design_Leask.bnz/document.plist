@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AFBZBuildNumber</key>
-	<string>v5057</string>
+	<string>v5373</string>
 	<key>AFBZDocumentId</key>
 	<string>BZA0ACE07137B84F21AAA7</string>
 	<key>AFBZLocalSubfoldersPublished</key>
@@ -43,20 +43,6 @@
 			L3BhcmFtPjxwYXJhbSBuYW1lPSJ3bW9kZSIgdmFsdWU9InRyYW5z
 			cGFyZW50Ij48L3BhcmFtPjwvb2JqZWN0Pg==
 			</data>
-			<key>AFBZPublishForceImageFormat</key>
-			<true/>
-			<key>AFBZPublishFormat</key>
-			<integer>1</integer>
-			<key>AFBZPublishLocation</key>
-			<integer>1</integer>
-			<key>AFBZPublishMediaViewer</key>
-			<integer>0</integer>
-			<key>AFBZPublishMediaViewerResolution</key>
-			<integer>800</integer>
-			<key>AFBZPublishQuality</key>
-			<real>0.90000000000000002</real>
-			<key>AFBZPublishTargetURL</key>
-			<integer>0</integer>
 			<key>subfolder-path</key>
 			<string>/Users/Leask/Desktop/untitled folder</string>
 			<key>subfolder-published-date</key>
@@ -97,20 +83,6 @@
 			L3BhcmFtPjxwYXJhbSBuYW1lPSJ3bW9kZSIgdmFsdWU9InRyYW5z
 			cGFyZW50Ij48L3BhcmFtPjwvb2JqZWN0Pg==
 			</data>
-			<key>AFBZPublishForceImageFormat</key>
-			<true/>
-			<key>AFBZPublishFormat</key>
-			<integer>1</integer>
-			<key>AFBZPublishLocation</key>
-			<integer>1</integer>
-			<key>AFBZPublishMediaViewer</key>
-			<integer>0</integer>
-			<key>AFBZPublishMediaViewerResolution</key>
-			<integer>800</integer>
-			<key>AFBZPublishQuality</key>
-			<real>0.90000000000000002</real>
-			<key>AFBZPublishTargetURL</key>
-			<integer>0</integer>
 			<key>subfolder-path</key>
 			<string>/Users/Leask/Desktop/untitled folder</string>
 			<key>subfolder-published-date</key>
@@ -151,20 +123,6 @@
 			L3BhcmFtPjxwYXJhbSBuYW1lPSJ3bW9kZSIgdmFsdWU9InRyYW5z
 			cGFyZW50Ij48L3BhcmFtPjwvb2JqZWN0Pg==
 			</data>
-			<key>AFBZPublishForceImageFormat</key>
-			<true/>
-			<key>AFBZPublishFormat</key>
-			<integer>1</integer>
-			<key>AFBZPublishLocation</key>
-			<integer>1</integer>
-			<key>AFBZPublishMediaViewer</key>
-			<integer>0</integer>
-			<key>AFBZPublishMediaViewerResolution</key>
-			<integer>800</integer>
-			<key>AFBZPublishQuality</key>
-			<real>0.90000000000000002</real>
-			<key>AFBZPublishTargetURL</key>
-			<integer>0</integer>
 			<key>subfolder-path</key>
 			<string>/Users/Leask/Desktop/untitled folder</string>
 			<key>subfolder-published-date</key>
@@ -205,20 +163,6 @@
 			L3BhcmFtPjxwYXJhbSBuYW1lPSJ3bW9kZSIgdmFsdWU9InRyYW5z
 			cGFyZW50Ij48L3BhcmFtPjwvb2JqZWN0Pg==
 			</data>
-			<key>AFBZPublishForceImageFormat</key>
-			<true/>
-			<key>AFBZPublishFormat</key>
-			<integer>1</integer>
-			<key>AFBZPublishLocation</key>
-			<integer>1</integer>
-			<key>AFBZPublishMediaViewer</key>
-			<integer>0</integer>
-			<key>AFBZPublishMediaViewerResolution</key>
-			<integer>800</integer>
-			<key>AFBZPublishQuality</key>
-			<real>0.90000000000000002</real>
-			<key>AFBZPublishTargetURL</key>
-			<integer>0</integer>
 			<key>subfolder-path</key>
 			<string>/Users/Leask/Desktop/untitled folder</string>
 			<key>subfolder-published-date</key>
@@ -259,20 +203,6 @@
 			L3BhcmFtPjxwYXJhbSBuYW1lPSJ3bW9kZSIgdmFsdWU9InRyYW5z
 			cGFyZW50Ij48L3BhcmFtPjwvb2JqZWN0Pg==
 			</data>
-			<key>AFBZPublishForceImageFormat</key>
-			<true/>
-			<key>AFBZPublishFormat</key>
-			<integer>1</integer>
-			<key>AFBZPublishLocation</key>
-			<integer>1</integer>
-			<key>AFBZPublishMediaViewer</key>
-			<integer>0</integer>
-			<key>AFBZPublishMediaViewerResolution</key>
-			<integer>800</integer>
-			<key>AFBZPublishQuality</key>
-			<real>0.90000000000000002</real>
-			<key>AFBZPublishTargetURL</key>
-			<integer>0</integer>
 			<key>subfolder-path</key>
 			<string>/Users/Leask/Desktop/untitled folder</string>
 			<key>subfolder-published-date</key>
@@ -313,20 +243,6 @@
 			L3BhcmFtPjxwYXJhbSBuYW1lPSJ3bW9kZSIgdmFsdWU9InRyYW5z
 			cGFyZW50Ij48L3BhcmFtPjwvb2JqZWN0Pg==
 			</data>
-			<key>AFBZPublishForceImageFormat</key>
-			<true/>
-			<key>AFBZPublishFormat</key>
-			<integer>1</integer>
-			<key>AFBZPublishLocation</key>
-			<integer>1</integer>
-			<key>AFBZPublishMediaViewer</key>
-			<integer>0</integer>
-			<key>AFBZPublishMediaViewerResolution</key>
-			<integer>800</integer>
-			<key>AFBZPublishQuality</key>
-			<real>0.90000000000000002</real>
-			<key>AFBZPublishTargetURL</key>
-			<integer>0</integer>
 			<key>subfolder-path</key>
 			<string>/Users/Leask/Desktop/untitled folder</string>
 			<key>subfolder-published-date</key>
@@ -367,20 +283,6 @@
 			L3BhcmFtPjxwYXJhbSBuYW1lPSJ3bW9kZSIgdmFsdWU9InRyYW5z
 			cGFyZW50Ij48L3BhcmFtPjwvb2JqZWN0Pg==
 			</data>
-			<key>AFBZPublishForceImageFormat</key>
-			<true/>
-			<key>AFBZPublishFormat</key>
-			<integer>1</integer>
-			<key>AFBZPublishLocation</key>
-			<integer>1</integer>
-			<key>AFBZPublishMediaViewer</key>
-			<integer>0</integer>
-			<key>AFBZPublishMediaViewerResolution</key>
-			<integer>800</integer>
-			<key>AFBZPublishQuality</key>
-			<real>0.90000000000000002</real>
-			<key>AFBZPublishTargetURL</key>
-			<integer>0</integer>
 			<key>subfolder-path</key>
 			<string>/Users/Leask/Desktop/untitled folder</string>
 			<key>subfolder-published-date</key>
@@ -394,12 +296,6 @@
 			<string>public.png</string>
 			<key>convert-to-png</key>
 			<false/>
-			<key>export</key>
-			<string>/var/folders/R7/R72P6E51HUKa6xHlNyLIwE+++TI/-Tmp-/BannerZest Pro/E2E9CC06-134C-4738-91BA/E2E9CC06-134C-4738-91BA.png</string>
-			<key>exportExtension</key>
-			<string>png</string>
-			<key>exportFileName</key>
-			<string>7855A2F0-5C03-42CE-9173</string>
 			<key>fileName</key>
 			<string>ban_1.png</string>
 			<key>fileSize</key>
@@ -416,12 +312,8 @@
 			<string>/Users/Leask/Sites/Stamford_Tyres/elements/ban_1.png</string>
 			<key>path</key>
 			<string>/Users/Leask/Sites/Stamford_Tyres/elements/ban_1.png</string>
-			<key>preview</key>
-			<string>/Users/Leask/Sites/Stamford_Tyres/elements/ban_1.png</string>
 			<key>subtitle</key>
 			<string>飞劲轮胎</string>
-			<key>thumb</key>
-			<string>/var/folders/R7/R72P6E51HUKa6xHlNyLIwE+++TI/-Tmp-/BannerZest Pro/256/7855A2F0-5C03-42CE-9173.png</string>
 			<key>url</key>
 			<string>../pd_show/index_falken.html</string>
 			<key>width</key>
@@ -432,12 +324,6 @@
 			<string>public.png</string>
 			<key>convert-to-png</key>
 			<false/>
-			<key>export</key>
-			<string>/var/folders/R7/R72P6E51HUKa6xHlNyLIwE+++TI/-Tmp-/BannerZest Pro/AF3C427C-940A-49CF-B4C9/AF3C427C-940A-49CF-B4C9.png</string>
-			<key>exportExtension</key>
-			<string>png</string>
-			<key>exportFileName</key>
-			<string>588825D9-FAD5-4AD5-8C69</string>
 			<key>fileName</key>
 			<string>ban_2.png</string>
 			<key>fileSize</key>
@@ -454,12 +340,8 @@
 			<string>/Users/Leask/Sites/Stamford_Tyres/elements/ban_2.png</string>
 			<key>path</key>
 			<string>/Users/Leask/Sites/Stamford_Tyres/elements/ban_2.png</string>
-			<key>preview</key>
-			<string>/Users/Leask/Sites/Stamford_Tyres/elements/ban_2.png</string>
 			<key>subtitle</key>
 			<string>相扑轮胎</string>
-			<key>thumb</key>
-			<string>/var/folders/R7/R72P6E51HUKa6xHlNyLIwE+++TI/-Tmp-/BannerZest Pro/256/588825D9-FAD5-4AD5-8C69.png</string>
 			<key>url</key>
 			<string>../pd_show/index_sumo.html</string>
 			<key>width</key>
@@ -470,12 +352,6 @@
 			<string>public.png</string>
 			<key>convert-to-png</key>
 			<false/>
-			<key>export</key>
-			<string>/var/folders/R7/R72P6E51HUKa6xHlNyLIwE+++TI/-Tmp-/BannerZest Pro/2227E24A-6956-4317-8E89/2227E24A-6956-4317-8E89.png</string>
-			<key>exportExtension</key>
-			<string>png</string>
-			<key>exportFileName</key>
-			<string>2901A1E8-6A6A-43F7-81AD</string>
 			<key>fileName</key>
 			<string>ban_3.png</string>
 			<key>fileSize</key>
@@ -492,12 +368,8 @@
 			<string>/Users/Leask/Sites/Stamford_Tyres/elements/ban_3.png</string>
 			<key>path</key>
 			<string>/Users/Leask/Sites/Stamford_Tyres/elements/ban_3.png</string>
-			<key>preview</key>
-			<string>/Users/Leask/Sites/Stamford_Tyres/elements/ban_3.png</string>
 			<key>subtitle</key>
 			<string>旗胜轮胎</string>
-			<key>thumb</key>
-			<string>/var/folders/R7/R72P6E51HUKa6xHlNyLIwE+++TI/-Tmp-/BannerZest Pro/256/2901A1E8-6A6A-43F7-81AD.png</string>
 			<key>url</key>
 			<string>../pd_show/index_firenza_car.html</string>
 			<key>width</key>
@@ -508,12 +380,6 @@
 			<string>public.png</string>
 			<key>convert-to-png</key>
 			<false/>
-			<key>export</key>
-			<string>/var/folders/R7/R72P6E51HUKa6xHlNyLIwE+++TI/-Tmp-/BannerZest Pro/22FB0521-1143-4C23-B4AF/22FB0521-1143-4C23-B4AF.png</string>
-			<key>exportExtension</key>
-			<string>png</string>
-			<key>exportFileName</key>
-			<string>556A8681-FDD8-45DC-82A7</string>
 			<key>fileName</key>
 			<string>ban_4.png</string>
 			<key>fileSize</key>
@@ -530,12 +396,8 @@
 			<string>/Users/Leask/Sites/Stamford_Tyres/elements/ban_4.png</string>
 			<key>path</key>
 			<string>/Users/Leask/Sites/Stamford_Tyres/elements/ban_4.png</string>
-			<key>preview</key>
-			<string>/Users/Leask/Sites/Stamford_Tyres/elements/ban_4.png</string>
 			<key>subtitle</key>
 			<string>添福钢圈</string>
-			<key>thumb</key>
-			<string>/var/folders/R7/R72P6E51HUKa6xHlNyLIwE+++TI/-Tmp-/BannerZest Pro/256/556A8681-FDD8-45DC-82A7.png</string>
 			<key>url</key>
 			<string>../pd_show/index_ssw.html</string>
 			<key>width</key>
@@ -546,50 +408,6 @@
 			<string>public.png</string>
 			<key>convert-to-png</key>
 			<false/>
-			<key>export</key>
-			<string>/var/folders/R7/R72P6E51HUKa6xHlNyLIwE+++TI/-Tmp-/BannerZest Pro/20FF8960-E2DD-490F-AF5C/20FF8960-E2DD-490F-AF5C.png</string>
-			<key>exportExtension</key>
-			<string>png</string>
-			<key>exportFileName</key>
-			<string>6EF2D8C1-FE6A-4942-AB80</string>
-			<key>fileName</key>
-			<string>ban_5.png</string>
-			<key>fileSize</key>
-			<integer>42277</integer>
-			<key>height</key>
-			<real>114</real>
-			<key>id</key>
-			<string>6EF2D8C1-FE6A-4942-AB80</string>
-			<key>isValid</key>
-			<true/>
-			<key>name</key>
-			<string>WEST LAKE</string>
-			<key>originalPath</key>
-			<string>/Users/Leask/Sites/Stamford_Tyres/elements/ban_5.png</string>
-			<key>path</key>
-			<string>/Users/Leask/Sites/Stamford_Tyres/elements/ban_5.png</string>
-			<key>preview</key>
-			<string>/Users/Leask/Sites/Stamford_Tyres/elements/ban_5.png</string>
-			<key>subtitle</key>
-			<string>威狮轮胎</string>
-			<key>thumb</key>
-			<string>/var/folders/R7/R72P6E51HUKa6xHlNyLIwE+++TI/-Tmp-/BannerZest Pro/256/6EF2D8C1-FE6A-4942-AB80.png</string>
-			<key>url</key>
-			<string>../pd_show/index_westlake.html</string>
-			<key>width</key>
-			<real>300</real>
-		</dict>
-		<dict>
-			<key>UTI</key>
-			<string>public.png</string>
-			<key>convert-to-png</key>
-			<false/>
-			<key>export</key>
-			<string>/var/folders/R7/R72P6E51HUKa6xHlNyLIwE+++TI/-Tmp-/BannerZest Pro/5804B708-22C3-41E5-B194/5804B708-22C3-41E5-B194.png</string>
-			<key>exportExtension</key>
-			<string>png</string>
-			<key>exportFileName</key>
-			<string>E55A4763-CF27-48B7-A6FA</string>
 			<key>fileName</key>
 			<string>ban_6.png</string>
 			<key>fileSize</key>
@@ -606,12 +424,8 @@
 			<string>/Users/Leask/Sites/Stamford_Tyres/elements/ban_6.png</string>
 			<key>path</key>
 			<string>/Users/Leask/Sites/Stamford_Tyres/elements/ban_6.png</string>
-			<key>preview</key>
-			<string>/Users/Leask/Sites/Stamford_Tyres/elements/ban_6.png</string>
 			<key>subtitle</key>
 			<string>全部品牌</string>
-			<key>thumb</key>
-			<string>/var/folders/R7/R72P6E51HUKa6xHlNyLIwE+++TI/-Tmp-/BannerZest Pro/256/E55A4763-CF27-48B7-A6FA.png</string>
 			<key>url</key>
 			<string>../pd_show/</string>
 			<key>width</key>
@@ -622,16 +436,46 @@
 	<dict>
 		<key>com.aquafadas.bannerzest.CoverFlow</key>
 		<dict>
+			<key>Equalizer preset</key>
+			<string>Display eq</string>
+			<key>Mute Button</key>
+			<string>Hide Settings</string>
+			<key>Pause Button</key>
+			<string>Hide Settings</string>
+			<key>Play Button</key>
+			<string>Hide Settings</string>
+			<key>Sound Box</key>
+			<string>item1</string>
+			<key>Sound Container</key>
+			<string>Hide Settings</string>
+			<key>Volume Button</key>
+			<string>Hide Settings</string>
 			<key>autoTimerDuration</key>
 			<real>5</real>
 			<key>bgColor</key>
 			<string>0x000000</string>
 			<key>colorPreset</key>
 			<string>colorBlack</string>
+			<key>containerBorderColor</key>
+			<string>0xDDDDDD</string>
+			<key>containerBorderWidth</key>
+			<real>2</real>
+			<key>containerColor1</key>
+			<string>0x262626</string>
+			<key>containerColor2</key>
+			<string>0x191919</string>
 			<key>debugLoadingScreen</key>
+			<false/>
+			<key>displayEqualizer</key>
 			<false/>
 			<key>displayScrollBar</key>
 			<true/>
+			<key>displaySoundContainer</key>
+			<false/>
+			<key>equalizerAlpha</key>
+			<real>1</real>
+			<key>equalizerColor</key>
+			<string>0xFEFFFE</string>
 			<key>gapAroundCenterImageFactor</key>
 			<real>1</real>
 			<key>gapBetweenImagesFactor</key>
@@ -648,6 +492,8 @@
 			<string>rectangle</string>
 			<key>imagesPosition</key>
 			<real>-40</real>
+			<key>loop</key>
+			<true/>
 			<key>lsBarAlpha</key>
 			<real>1</real>
 			<key>lsBarAlpha_pie</key>
@@ -774,12 +620,40 @@
 			<true/>
 			<key>mediaWidth</key>
 			<real>300</real>
+			<key>muteButtonBorderColor</key>
+			<string>0x000000</string>
+			<key>muteButtonBorderWidth</key>
+			<real>0.0</real>
+			<key>muteButtonColor</key>
+			<string>0xFEFFFE</string>
+			<key>muteButtonContainerColor</key>
+			<string>0x636363</string>
 			<key>new preset</key>
 			<string>item2</string>
 			<key>notLoadedMediaAlpha</key>
 			<real>1</real>
 			<key>notLoadedMediaColor</key>
 			<string>0x444444</string>
+			<key>pauseButtonBorderColor</key>
+			<string>0x000000</string>
+			<key>pauseButtonBorderWidth</key>
+			<real>0.0</real>
+			<key>pauseButtonColor</key>
+			<string>0xFEFFFE</string>
+			<key>pauseButtonContainerColor</key>
+			<string>0x636363</string>
+			<key>permanentSoundContainer</key>
+			<true/>
+			<key>playButtonBorderColor</key>
+			<string>0x000000</string>
+			<key>playButtonBorderWidth</key>
+			<real>0.0</real>
+			<key>playButtonColor</key>
+			<string>0xFEFFFE</string>
+			<key>playButtonContainerColor</key>
+			<string>0x636363</string>
+			<key>preload</key>
+			<real>0.0</real>
 			<key>preset</key>
 			<string>lightwheel</string>
 			<key>randomizeMediaArray</key>
@@ -800,10 +674,44 @@
 			<real>10</real>
 			<key>scrollBarWidth</key>
 			<integer>400</integer>
+			<key>separatedSoundContainter</key>
+			<true/>
 			<key>shadow</key>
 			<true/>
+			<key>sound preset</key>
+			<string>item3</string>
+			<key>soundAlpha1</key>
+			<real>1</real>
+			<key>soundAlpha2</key>
+			<real>1</real>
+			<key>soundAlphaMuteButton1</key>
+			<real>1</real>
+			<key>soundAlphaMuteButton2</key>
+			<real>1</real>
+			<key>soundAlphaPause1</key>
+			<real>1</real>
+			<key>soundAlphaPause2</key>
+			<real>1</real>
+			<key>soundAlphaPlay1</key>
+			<real>1</real>
+			<key>soundAlphaPlay2</key>
+			<real>1</real>
+			<key>soundAlphaVolumeBack</key>
+			<real>1</real>
+			<key>soundAlphaVolumeFront</key>
+			<real>1</real>
+			<key>soundContainerBorderPercentCornerRadius</key>
+			<real>50</real>
+			<key>soundContainerMargin</key>
+			<real>5</real>
+			<key>soundPosition</key>
+			<string>Bottom</string>
+			<key>soundSize</key>
+			<real>1</real>
 			<key>startDisplayIndex</key>
 			<integer>1</integer>
+			<key>startSoundAuto</key>
+			<false/>
 			<key>themeBorderColor</key>
 			<string>0x333333</string>
 			<key>themeBorderPercentCornerRadius</key>
@@ -820,6 +728,12 @@
 			<false/>
 			<key>userNumOfImagesToLoadBeforeStarting</key>
 			<real>1</real>
+			<key>volumeBackColor</key>
+			<string>0x000000</string>
+			<key>volumeFrontColor</key>
+			<string>0xFEFFFE</string>
+			<key>waitForSound</key>
+			<false/>
 		</dict>
 		<key>com.aquafadas.bannerzest.ElasticMatrix</key>
 		<dict>
@@ -5361,6 +5275,8 @@
 	<string>/Users/Leask/Desktop/untitled folder</string>
 	<key>AFBZPublishSettings</key>
 	<dict>
+		<key>AFBZPublishAlternativeContent</key>
+		<true/>
 		<key>AFBZPublishForceImageFormat</key>
 		<true/>
 		<key>AFBZPublishFormat</key>
@@ -5373,6 +5289,8 @@
 		<integer>800</integer>
 		<key>AFBZPublishQuality</key>
 		<real>0.90000000000000002</real>
+		<key>AFBZPublishSingleSwfFile</key>
+		<false/>
 		<key>AFBZPublishTargetURL</key>
 		<integer>0</integer>
 	</dict>
